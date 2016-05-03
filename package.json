@@ -1,0 +1,31 @@
+{
+  "name": "adserv.js",
+  "version": "0.0.1",
+  "description": "Serve those ads!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomasbrueggemann/adserv.js"
+  },
+  "keywords": [
+    "ads",
+    "advertisement",
+    "banner",
+    "billboard",
+    "adverts",
+    "ad"
+  ],
+  "author": "Thomas Brüggemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thomasbrueggemann/adserv.js/issues"
+  },
+  "homepage": "https://github.com/thomasbrueggemann/adserv.js",
+  "dependencies": {
+    "moment": "^2.13.0",
+    "mongodb": "^2.0.48"
+  }
+}
